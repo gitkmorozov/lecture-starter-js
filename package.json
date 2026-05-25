@@ -1,7 +1,7 @@
 {
     "name": "street-fighter",
     "engines": {
-        "node": ">=18",
+        "node": ">=22",
         "npm": ">=10"
     },
     "type": "module",
