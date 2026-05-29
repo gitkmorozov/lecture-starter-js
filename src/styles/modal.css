@@ -38,3 +38,14 @@
   line-height: 1;
   cursor: pointer;
 }
+.winner-modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.winner-modal___image {
+  max-width: 250px;
+  max-height: 250px;
+}
